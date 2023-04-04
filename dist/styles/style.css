@@ -1,0 +1,115 @@
+.btn-home-div {
+  padding-right: 130px;
+}
+.btn-home-div .btn-home {
+  scale: 1.9;
+  cursor: pointer;
+}
+.btn-home-div .btn-home:hover {
+  color: gray;
+}
+
+<<<<<<< HEAD
+.suas-compras {
+  margin: 80px;
+}
+.suas-compras h2 {
+  margin-left: 30px;
+  border-bottom: 2px solid darkslategray;
+}
+.suas-compras .filtro {
+=======
+.filtro-div {
+  margin: 80px;
+  margin-left: 60px;
+}
+.filtro-div h2 {
+  margin-left: 30px;
+  border-bottom: 2px solid darkslategray;
+}
+.filtro-div .filtro {
+>>>>>>> develop
+  margin-left: 30px;
+  background-color: rgb(234, 229, 229);
+  display: inline-block;
+  padding: 10px;
+  padding-right: 30px;
+  border-radius: 10px;
+}
+<<<<<<< HEAD
+.suas-compras .filtro .form-check {
+=======
+.filtro-div .filtro .form-check {
+>>>>>>> develop
+  margin: 10px 0;
+}
+
+.carousel .div-imagem-carrossel .imagem-carrossel {
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 400px;
+}
+.carousel .carrossel-text {
+  background: linear-gradient(45deg, rgb(255, 187, 0), yellow, lightyellow);
+  border-radius: 10px;
+  color: black;
+<<<<<<< HEAD
+=======
+}
+
+.menuLink {
+  text-decoration: none;
+  color: white;
+}
+
+.playstation-filtro {
+  border-bottom: 5px solid blue;
+  cursor: pointer;
+}
+.playstation-filtro:hover {
+  border-width: 10px;
+}
+
+.x-box-filtro {
+  border-bottom: 5px solid green;
+  cursor: pointer;
+}
+.x-box-filtro:hover {
+  border-width: 10px;
+}
+
+.nintendo-filtro {
+  border-bottom: 5px solid red;
+  cursor: pointer;
+}
+.nintendo-filtro:hover {
+  border-width: 10px;
+}
+
+.selecionado {
+  border-width: 10px;
+}
+
+.bg-blue {
+  background: linear-gradient(155deg, white, lightblue, blue, blue, darkblue, darkblue);
+}
+
+.bg-green {
+  background: linear-gradient(155deg, white, lightgreen, green, green, darkgreen, darkgreen);
+}
+
+.bg-red {
+  background: linear-gradient(155deg, white, lightcoral, red, red, darkred);
+}
+
+main {
+  padding-bottom: 300px;
+}
+
+.produtos {
+  margin: 100px 40px;
+}
+.produtos .produto {
+  margin: 20px;
+>>>>>>> develop
+}/*# sourceMappingURL=style.css.map */
