@@ -1,6 +1,6 @@
-let playstationBtn = document.querySelector('.playstation-filtro')
-let xBoxBtn = document.querySelector('.x-box-filtro')
-let nintendoBtn = document.querySelector('.nintendo-filtro')
+const playstationBtn = document.querySelector('.playstation-filtro')
+const xBoxBtn = document.querySelector('.x-box-filtro')
+const nintendoBtn = document.querySelector('.nintendo-filtro')
 let main = document.querySelector('main')
 
 playstationBtn.addEventListener('click', () => {

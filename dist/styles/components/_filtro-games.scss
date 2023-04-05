@@ -1,6 +1,7 @@
 .playstation-filtro {
     border-bottom: 5px solid blue;
     cursor: pointer;
+    transition: 0.15s;
     &:hover {
         border-width: 10px;
     }
@@ -8,6 +9,7 @@
 .x-box-filtro {
     border-bottom: 5px solid green;
     cursor: pointer;
+    transition: 0.15s;
     &:hover {
         border-width: 10px;
     }
@@ -15,6 +17,7 @@
 .nintendo-filtro {
     border-bottom: 5px solid red;
     cursor: pointer;
+    transition: 0.15s;
     &:hover {
         border-width: 10px;
     }
