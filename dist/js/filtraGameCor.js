@@ -1,4 +1,4 @@
-const playstationBtn = document.querySelector('.playstation-filtro')
+let playstationBtn = document.querySelector('.playstation-filtro')
 const xBoxBtn = document.querySelector('.x-box-filtro')
 const nintendoBtn = document.querySelector('.nintendo-filtro')
 let main = document.querySelector('main')

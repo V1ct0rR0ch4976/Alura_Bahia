@@ -1,12 +1,13 @@
 .produtos {
+    vertical-align: top;
     margin: 100px 40px;
     margin-left: 250px;
     .produto {
         margin: 20px;
-        max-height: 390.4px;
+        height: 400px;
         img {
             box-sizing: border-box;
-            max-height: 286px;
+            max-height: 296px;
         }
     }
 }

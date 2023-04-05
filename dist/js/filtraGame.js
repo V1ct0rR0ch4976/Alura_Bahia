@@ -1,4 +1,4 @@
-let produtos = document.querySelectorAll('.produto')
+const produtos = document.querySelectorAll('.produto')
 playstationBtn.addEventListener('click', () => {
     filtraGame('playstation')
 })
